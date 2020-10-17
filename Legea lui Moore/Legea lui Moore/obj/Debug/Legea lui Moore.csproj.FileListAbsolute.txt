@@ -1,0 +1,7 @@
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.csprojAssemblyReference.cache
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.csproj.CoreCompileInputs.cache
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.exe.config
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.exe
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\bin\Debug\Legea lui Moore.pdb
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.exe
+E:\ASC2020\Legea lui Moore\Legea lui Moore\Legea lui Moore\obj\Debug\Legea lui Moore.pdb
